@@ -1,0 +1,254 @@
+ [
+      {
+          "id": 1,
+          "logo": "https://i.postimg.cc/Wz81d0r3/googlemama.png",
+          "title": "Software Engineer",
+          "companyName": "Google",
+          "remote_or_onsite":"Remote",
+          "job_type":"Full Time",
+          "location": "Mountain View, CA",
+          "salary": "$120,000 - $150,000 per year",
+          "phone": "+1 (123) 456-7890",
+          "email": "careers@google.com",
+          "jobDescription": "Join one of the world's leading technology companies and help shape the future of software engineering...",
+          "jobResponsibilities": [
+              "Design and develop scalable software solutions",
+              "Collaborate with teams across the organization to innovate and deliver products",
+              "Conduct code reviews and ensure code quality",
+              "Participate in the full software development lifecycle"
+          ],
+          "educationalRequirements": "Bachelor's degree in Computer Science or related field",
+          "experiences": "3+ years of experience in software development"
+      },
+      {
+          "id": 2,
+          "logo": "https://i.postimg.cc/8CXR8V9s/facebook.png",
+          "title": "Data Scientist",
+          "companyName": "Facebook",
+          "remote_or_onsite":"Remote",
+          "job_type":"Full Time",
+          "location": "Menlo Park, CA",
+          "salary": "$130,000 - $160,000 per year",
+          "phone": "+1 (987) 654-3210",
+          "email": "jobs@facebook.com",
+          "jobDescription": "Be part of a team that leverages data to improve people's experiences on the world's largest social media platform...",
+          "jobResponsibilities": [
+              "Analyze large datasets to drive product decisions",
+              "Develop machine learning models for user behavior prediction",
+              "Collaborate with cross-functional teams to develop data-driven solutions",
+              "Communicate findings to stakeholders and drive impact"
+          ],
+          "educationalRequirements": "Master's degree in Data Science, Statistics, or related field",
+          "experiences": "2+ years of experience in data analysis and machine learning"
+      },
+      {
+          "id": 3,
+          "logo": "https://i.postimg.cc/mZHQnJw2/tesla.png",
+          "title": "Electrical Engineer",
+          "companyName": "Tesla",
+          "remote_or_onsite":"Onsite",
+          "job_type":"Full Time",
+          "location": "Palo Alto, CA",
+          "salary": "$110,000 - $140,000 per year",
+          "phone": "+1 (555) 123-4567",
+          "email": "jobs@tesla.com",
+          "jobDescription": "Join a cutting-edge team that is revolutionizing the automotive industry with electric vehicles and renewable energy solutions...",
+          "jobResponsibilities": [
+              "Design and develop electrical systems for vehicles",
+              "Collaborate with cross-functional teams to integrate electrical components",
+              "Ensure compliance with safety standards and regulations",
+              "Conduct testing and validation of electrical systems"
+          ],
+          "educationalRequirements": "Bachelor's degree in Electrical Engineering or related field",
+          "experiences": "3+ years of experience in electrical engineering"
+      },
+      {
+          "id": 4,
+          "logo": "https://i.postimg.cc/Vk1BngXs/apple.png",
+          "title": "iOS Developer",
+          "companyName": "Apple",
+          "remote_or_onsite":"Remote",
+          "job_type":"Part Time",
+          "location": "Cupertino, CA",
+          "salary": "$130,000 - $160,000 per year",
+          "phone": "+1 (111) 222-3333",
+          "email": "jobs@apple.com",
+          "jobDescription": "Join the team responsible for developing innovative iOS applications used by millions of users worldwide...",
+          "jobResponsibilities": [
+              "Design and implement new features for iOS applications",
+              "Optimize application performance and user experience",
+              "Collaborate with designers and product managers to deliver high-quality software",
+              "Stay up-to-date with the latest iOS development trends and technologies"
+          ],
+          "educationalRequirements": "Bachelor's degree in Computer Science or related field",
+          "experiences": "3+ years of experience in iOS development"
+      },
+      {
+          "id": 5,
+          "logo": "https://i.postimg.cc/SsXWkvbd/microsoft.png",
+          "title": "Software Development Engineer",
+          "companyName": "Microsoft",
+          "remote_or_onsite":"Onsite",
+          "job_type":"Full Time",
+          "location": "Redmond, WA",
+          "salary": "$120,000 - $150,000 per year",
+          "phone": "+1 (444) 555-6666",
+          "email": "careers@microsoft.com",
+          "jobDescription": "Join a dynamic team and contribute to the development of industry-leading software products and services...",
+          "jobResponsibilities": [
+              "Design and develop software solutions using various programming languages",
+              "Participate in code reviews and provide feedback to improve code quality",
+              "Collaborate with cross-functional teams to deliver products on schedule",
+              "Contribute to the improvement of development processes and tools"
+          ],
+          "educationalRequirements": "Bachelor's degree in Computer Science or related field",
+          "experiences": "2+ years of experience in software development"
+      },
+      {
+          "id": 6,
+          "logo": "https://i.postimg.cc/BQ2BjkLw/amazon.png",
+          "title": "Business Analyst",
+          "companyName": "Amazon",
+          "remote_or_onsite":"Remote",
+          "job_type":"Full Time",
+          "location": "Seattle, WA",
+          "salary": "$100,000 - $120,000 per year",
+          "phone": "+1 (777) 888-9999",
+          "email": "jobs@amazon.com",
+          "jobDescription": "Join a fast-paced environment and help drive strategic decision making through data analysis and insights...",
+          "jobResponsibilities": [
+              "Gather and analyze data to identify trends and opportunities",
+              "Develop reports and presentations to communicate findings to stakeholders",
+              "Collaborate with business teams to define and track key performance indicators",
+              "Provide recommendations to improve operational efficiency and profitability"
+          ],
+          "educationalRequirements": "Bachelor's degree in Business, Economics, or related field",
+          "experiences": "2+ years of experience in business analysis or consulting"
+      },
+      {
+          "id": 7,
+          "logo": "https://i.postimg.cc/7h00TJ6T/twiter.png",
+          "title": "Product Manager",
+          "companyName": "Twitter",
+          "remote_or_onsite":"Onsite",
+          "job_type":"Part Time",
+          "location": "San Francisco, CA",
+          "salary": "$140,000 - $170,000 per year",
+          "phone": "+1 (666) 777-8888",
+          "email": "careers@twitter.com",
+          "jobDescription": "Join the product team and drive the development of new features and enhancements for the Twitter platform...",
+          "jobResponsibilities": [
+              "Define product vision, strategy, and roadmap",
+              "Work closely with engineering and design teams to prioritize and deliver features",
+              "Gather and analyze user feedback to inform product decisions",
+              "Monitor product performance and iterate based on data-driven insights"
+          ],
+          "educationalRequirements": "Bachelor's degree in Computer Science, Business, or related field",
+          "experiences": "3+ years of experience in product management or related roles"
+      },
+      {
+        "id":8,
+        "logo": "https://i.postimg.cc/GpmFSpMZ/netflix.png",
+        "title": "Senior Backend Engineer",
+        "companyName": "Netflix",
+        "remote_or_onsite":"Remote",
+          "job_type":"Full Time",
+        "location": "Los Gatos, CA",
+        "salary": "$150,000 - $180,000 per year",
+        "phone": "+1 (555) 666-7777",
+        "email": "jobs@netflix.com",
+        "jobDescription": "Join the team responsible for building the backend systems that power the world's leading streaming platform...",
+        "jobResponsibilities": [
+          "Design and develop scalable backend services and APIs",
+          "Optimize performance and reliability of distributed systems",
+          "Collaborate with cross-functional teams to deliver new features and enhancements",
+          "Stay updated with the latest backend technologies and best practices"
+        ],
+        "educationalRequirements": "Bachelor's degree in Computer Science or related field",
+        "experiences": "5+ years of experience in backend development"
+      },
+      {
+        "id": 9,
+        "logo": "https://i.postimg.cc/YqB1BRnN/uber.png",
+        "title": "Senior Data Analyst",
+        "companyName": "Uber",
+        "remote_or_onsite":"Remote",
+        "job_type":"Full Time",
+        "location": "San Francisco, CA",
+        "salary": "$140,000 - $160,000 per year",
+        "phone": "+1 (111) 222-3333",
+        "email": "jobs@uber.com",
+        "jobDescription": "Join the team that is revolutionizing the way people move around cities through data-driven insights...",
+        "jobResponsibilities": [
+          "Analyze large datasets to identify trends and opportunities",
+          "Develop dashboards and reports to track key metrics and KPIs",
+          "Collaborate with cross-functional teams to drive business decisions",
+          "Provide actionable insights to improve operational efficiency and user experience"
+        ],
+        "educationalRequirements": "Bachelor's degree in Statistics, Economics, or related field",
+        "experiences": "3+ years of experience in data analysis or related roles"
+      },
+      {
+        "id": 10,
+        "logo": "https://i.postimg.cc/sfkJDsXh/airbnb.png",
+        "title": "UX/UI Designer",
+        "companyName": "Airbnb",
+        "remote_or_onsite":"Onsite",
+        "job_type":"Full Time",
+        "location": "San Francisco, CA",
+        "salary": "$120,000 - $150,000 per year",
+        "phone": "+1 (999) 888-7777",
+        "email": "careers@airbnb.com",
+        "jobDescription": "Join the design team and create world-class user experiences for travelers and hosts around the globe...",
+        "jobResponsibilities": [
+          "Design intuitive and engaging user interfaces for web and mobile applications",
+          "Collaborate with product managers and engineers to define and implement design solutions",
+          "Conduct user research and usability testing to gather feedback and iterate designs",
+          "Stay updated with the latest design trends and tools"
+        ],
+        "educationalRequirements": "Bachelor's degree in Design, HCI, or related field",
+        "experiences": "3+ years of experience in UX/UI design"
+      },
+      {
+        "id": 11,
+        "logo": "https://i.postimg.cc/W3Q03w2v/Spotify.png",
+        "title": "Machine Learning Engineer",
+        "companyName": "Spotify",
+        "remote_or_onsite":"Remote",
+        "job_type":"Full Time",
+        "location": "New York, NY",
+        "salary": "$140,000 - $170,000 per year",
+        "phone": "+1 (222) 333-4444",
+        "email": "jobs@spotify.com",
+        "jobDescription": "Join the team that is leveraging machine learning to personalize the music listening experience for millions of users...",
+        "jobResponsibilities": [
+          "Develop machine learning models to analyze user behavior and preferences",
+          "Optimize recommendation algorithms to enhance music discovery",
+          "Collaborate with data engineers to deploy and maintain scalable ML pipelines",
+          "Stay updated with the latest ML research and techniques"
+        ],
+        "educationalRequirements": "Master's degree in Computer Science, Statistics, or related field",
+        "experiences": "2+ years of experience in machine learning"
+      },
+      {
+        "id": 12,
+        "logo": "https://i.postimg.cc/DwgQgGcr/linkedin.png",
+        "title": "Senior Software Engineer",
+        "companyName": "LinkedIn",
+        "remote_or_onsite":"Remote",
+        "job_type":"Full Time",
+        "location": "Sunnyvale, CA",
+        "salary": "$150,000 - $180,000 per year",
+        "phone": "+1 (333) 444-5555",
+        "email": "jobs@linkedin.com",
+        "jobDescription": "Join the team that is building the world's largest professional network and shaping the future of work...",
+        "jobResponsibilities": [
+          "Design and develop scalable and reliable software solutions",
+          "Collaborate with cross-functional teams to deliver new features and products",
+          "Conduct code reviews and ensure code quality and best practices",
+          "Stay updated with the latest technologies and industry trends"
+        ],
+        "educationalRequirements": "Bachelor's degree in Computer Science or related field",
+        "experiences": "5+ years of experience in software development"
+      }
+    ]

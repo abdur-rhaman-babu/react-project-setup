@@ -1,0 +1,23 @@
+[
+    {
+      "job_type": "Software Engineer",
+      "available": "100 jobs are available",
+      "image_url": "https://example.com/software_engineer_image.jpg"
+    },
+    {
+      "job_type": "Data Scientist",
+      "available": "No jobs available",
+      "image_url": "https://example.com/data_scientist_image.jpg"
+    },
+    {
+      "job_type": "Graphic Designer",
+      "available": "50 jobs are available",
+      "image_url": "https://example.com/graphic_designer_image.jpg"
+    },
+    {
+      "job_type": "Marketing Manager",
+      "available": "30 jobs are available",
+      "image_url": "https://example.com/marketing_manager_image.jpg"
+    }
+  ]
+  
