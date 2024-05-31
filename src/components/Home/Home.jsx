@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import Jobs from "../Jobs/Jobs";
+import CategoryList from "../CategoryList/CategoryList";
 
 const Home = () => {
     const [jobs, setJobs] = useState([])
@@ -12,8 +13,11 @@ const Home = () => {
     },[])
 
     return (
-       <div>
-             <div className="lg:grid grid-cols-2 mx-auto max-w-5xl gap-4 mt-24">
+       <div className="mt-24 text-center">
+        <CategoryList/>
+        <h1 className="text-4xl font-semibold mb-4">Featured Jobs</h1>
+        <p className="font-semibold mb-2">Expro thousands of job opportunities with all the information you need  Its your future</p>
+             <div className="lg:grid grid-cols-2 mx-auto max-w-5xl gap-4 ">
             {
                 jobs &&  jobs.slice(0,jobslength).map((job)=><Jobs key={job.id} jobs = {job}/>)
             }
@@ -24,5 +28,6 @@ const Home = () => {
        </div>
     );
 };
+
 
 export default Home;
