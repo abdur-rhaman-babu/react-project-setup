@@ -1,18 +1,20 @@
-const getDatafromLs = () =>{
-    const storedData = localStorage.getItem('job_applications')
-    if(storedData){
-        return JSON.parse(storedData)
+const getAppliedJObToLs = () =>{
+    const storageAppliedJob = localStorage.getItem('job_applications')
+    if(storageAppliedJob){
+        return JSON.parse(storageAppliedJob)
     }
     return []
 }
 
-const saveDatatoLs = (id) =>{
-    const storedData = getDatafromLs()
-    const exist = storedData.find((jobId)=> jobId === id)
-    if(!exist){
-        storedData.push(id)
-        localStorage.setItem('job_applications', JSON.stringify(storedData))
+const saveAppliedJobToLs = (id) =>{
+    const storageAppliedJob = getAppliedJObToLs();
+
+    const exists = storageAppliedJob.find((jobId)=> jobId === id) 
+
+    if(!exists){
+        storageAppliedJob.push(id)
+        localStorage.setItem('job_applications', JSON.stringify(storageAppliedJob))
     }
 }
 
-export {getDatafromLs, saveDatatoLs}
+export {getAppliedJObToLs, saveAppliedJobToLs}
