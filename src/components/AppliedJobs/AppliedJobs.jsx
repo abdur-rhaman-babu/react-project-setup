@@ -5,7 +5,7 @@ import AppliedJob from "../AppliedJob/AppliedJob";
 
 const AppliedJobs = () => {
   const jobs = useLoaderData();
-  
+
   const [showJob, setShowJob] = useState([]);
   const [displayJobs, setDisplayJobs] = useState([]);
 
@@ -56,7 +56,7 @@ const AppliedJobs = () => {
 
         <div className="dropdown">
           <div tabIndex={0} role="button" className="btn m-1">
-            Click
+            Filter
           </div>
           <ul
             tabIndex={0}
