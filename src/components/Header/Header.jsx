@@ -1,7 +1,6 @@
 import { NavLink } from "react-router-dom";
-
-
 const Header = () => {
+  
     return (
         <div className="navbar bg-base-100 shadow-lg fixed z-10 top-0 lg:px-40">
         <div className="navbar-start">
